@@ -1,2 +1,2 @@
 # IA
-Criação de uma Inteligencia Artificial com previsões
+Criação de uma Inteligencia Artificial com previsões referente aos dados importados
